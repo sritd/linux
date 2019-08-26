@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=No Beep
+Comment=No Beep
+Exec=bash -c "sleep 5; xset -b;"
+OnlyShowIn=XFCE;LXDE;
+StartupNotify=false
+Terminal=false
+Hidden=false
