@@ -1,0 +1,9 @@
+[Match]
+Name=lan1
+
+[Network]
+DHCP=yes
+
+[DHCP]
+UseDomains=true
+

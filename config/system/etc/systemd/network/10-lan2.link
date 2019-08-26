@@ -1,0 +1,6 @@
+[Match]
+MACAddress=MACADDRESS2
+
+[Link]
+Name=lan2
+
